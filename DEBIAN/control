@@ -1,0 +1,10 @@
+Package: fcitx-skin-hakureireimu
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends:
+Installed-Size: 424
+Maintainer: Li Da <lhttjdr@gmail.com>
+Description: This is a skin for input method Fcitx, whose appearance is based on Hakurei Reimu, the leading role of Touhou Project.
+ Originally, it is migrated from a skin of Sogou, made by FengFeng <ime@sohu-rd.com>. So, thanks for his/her shareing.
